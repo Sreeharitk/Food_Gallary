@@ -221,3 +221,19 @@ footer{
         align-content: center;
     }
 }
+
+@media (max-width:550px) {
+    .pimg img{
+        width: 70%;
+    }
+
+    .g3m2{
+        padding: 9px 9px 9px;
+    }
+
+    .flist,.fh{
+        display: block;
+        text-align: center;
+    }
+
+}
